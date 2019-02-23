@@ -1,0 +1,4 @@
+
+Intercambios: 13989
+Tiempo empleado: 1000514 us
+Numero de lecturas(n_read): 43481 | Numero de escrituras(n_write): 27978
