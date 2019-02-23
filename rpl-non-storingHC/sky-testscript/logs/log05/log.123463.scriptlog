@@ -1,0 +1,133 @@
+Random seed: 123463
+627086 ID:5 [INFO: Main      ] Starting Contiki-NG-release/v4.2-166-ga66692d-dirty
+629949 ID:5 [INFO: Main      ] - Routing: RPL Classic
+632471 ID:5 [INFO: Main      ] - Net: sicslowpan
+634584 ID:5 [INFO: Main      ] - MAC: CSMA
+637961 ID:5 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+641524 ID:5 [INFO: Main      ] - 802.15.4 Default channel: 26
+643639 ID:5 [INFO: Main      ] Node ID: 5
+649024 ID:5 [INFO: Main      ] Link-layer address: 0012.7405.0005.0505
+660249 ID:5 [INFO: Main      ] Tentative link-local IPv6 address: fe80::212:7405:5:505
+663664 ID:5 [INFO: Sky       ] CC2420 CCA threshold -45
+676061 ID:4 [INFO: Main      ] Starting Contiki-NG-release/v4.2-166-ga66692d-dirty
+678924 ID:4 [INFO: Main      ] - Routing: RPL Classic
+681446 ID:4 [INFO: Main      ] - Net: sicslowpan
+683559 ID:4 [INFO: Main      ] - MAC: CSMA
+686936 ID:4 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+690499 ID:4 [INFO: Main      ] - 802.15.4 Default channel: 26
+692614 ID:4 [INFO: Main      ] Node ID: 4
+697999 ID:4 [INFO: Main      ] Link-layer address: 0012.7404.0004.0404
+709221 ID:4 [INFO: Main      ] Tentative link-local IPv6 address: fe80::212:7404:4:404
+712643 ID:4 [INFO: Sky       ] CC2420 CCA threshold -45
+979610 ID:3 [INFO: Main      ] Starting Contiki-NG-release/v4.2-166-ga66692d-dirty
+982473 ID:3 [INFO: Main      ] - Routing: RPL Classic
+984995 ID:3 [INFO: Main      ] - Net: sicslowpan
+987107 ID:3 [INFO: Main      ] - MAC: CSMA
+990484 ID:3 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+994047 ID:3 [INFO: Main      ] - 802.15.4 Default channel: 26
+996163 ID:3 [INFO: Main      ] Node ID: 3
+1001548 ID:3 [INFO: Main      ] Link-layer address: 0012.7403.0003.0303
+1012773 ID:3 [INFO: Main      ] Tentative link-local IPv6 address: fe80::212:7403:3:303
+1016188 ID:3 [INFO: Sky       ] CC2420 CCA threshold -45
+1087437 ID:1 [INFO: Main      ] Starting Contiki-NG-release/v4.2-166-ga66692d-dirty
+1090301 ID:1 [INFO: Main      ] - Routing: RPL Classic
+1092822 ID:1 [INFO: Main      ] - Net: sicslowpan
+1094935 ID:1 [INFO: Main      ] - MAC: CSMA
+1098312 ID:1 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+1101875 ID:1 [INFO: Main      ] - 802.15.4 Default channel: 26
+1103990 ID:1 [INFO: Main      ] Node ID: 1
+1109375 ID:1 [INFO: Main      ] Link-layer address: 0012.7401.0001.0101
+1120597 ID:1 [INFO: Main      ] Tentative link-local IPv6 address: fe80::212:7401:1:101
+1124019 ID:1 [INFO: Sky       ] CC2420 CCA threshold -45
+1261793 ID:2 [INFO: Main      ] Starting Contiki-NG-release/v4.2-166-ga66692d-dirty
+1264657 ID:2 [INFO: Main      ] - Routing: RPL Classic
+1267178 ID:2 [INFO: Main      ] - Net: sicslowpan
+1269291 ID:2 [INFO: Main      ] - MAC: CSMA
+1272668 ID:2 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+1276231 ID:2 [INFO: Main      ] - 802.15.4 Default channel: 26
+1278347 ID:2 [INFO: Main      ] Node ID: 2
+1283732 ID:2 [INFO: Main      ] Link-layer address: 0012.7402.0002.0202
+1294954 ID:2 [INFO: Main      ] Tentative link-local IPv6 address: fe80::212:7402:2:202
+1298375 ID:2 [INFO: Sky       ] CC2420 CCA threshold -45
+30713241 ID:1 [INFO: App       ] Ip: fd00::212:7405:5:505 : 1
+30731184 ID:1 [INFO: App       ] Ip: fd00::212:7404:4:404 : 1
+30746757 ID:4 [INFO: App       ] M[4]-M[1]:1
+30762340 ID:5 [INFO: App       ] M[5]-M[1]:1
+31042275 ID:1 [INFO: App       ] Ip: fd00::212:7403:3:303 : 1
+31066986 ID:3 [INFO: App       ] M[3]-M[1]:1
+32403504 ID:1 [INFO: Main      ] Starting Contiki-NG-release/v4.2-166-ga66692d-dirty
+32406368 ID:1 [INFO: Main      ] - Routing: RPL Classic
+32408889 ID:1 [INFO: Main      ] - Net: sicslowpan
+32411002 ID:1 [INFO: Main      ] - MAC: CSMA
+32414379 ID:1 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+32417942 ID:1 [INFO: Main      ] - 802.15.4 Default channel: 26
+32420057 ID:1 [INFO: Main      ] Node ID: 1
+32425442 ID:1 [INFO: Main      ] Link-layer address: 0012.7401.0001.0101
+32436664 ID:1 [INFO: Main      ] Tentative link-local IPv6 address: fe80::212:7401:1:101
+32440086 ID:1 [INFO: Sky       ] CC2420 CCA threshold -45
+63719571 ID:1 [INFO: Main      ] Starting Contiki-NG-release/v4.2-166-ga66692d-dirty
+63722435 ID:1 [INFO: Main      ] - Routing: RPL Classic
+63724956 ID:1 [INFO: Main      ] - Net: sicslowpan
+63727069 ID:1 [INFO: Main      ] - MAC: CSMA
+63730446 ID:1 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+63734009 ID:1 [INFO: Main      ] - 802.15.4 Default channel: 26
+63736124 ID:1 [INFO: Main      ] Node ID: 1
+63741509 ID:1 [INFO: Main      ] Link-layer address: 0012.7401.0001.0101
+63752731 ID:1 [INFO: Main      ] Tentative link-local IPv6 address: fe80::212:7401:1:101
+63756153 ID:1 [INFO: Sky       ] CC2420 CCA threshold -45
+92197731 ID:1 [INFO: App       ] Ip: fd00::212:7402:2:202 : 2
+92301428 ID:2 [INFO: App       ] M[2]-M[1]:2
+95035638 ID:1 [INFO: Main      ] Starting Contiki-NG-release/v4.2-166-ga66692d-dirty
+95038502 ID:1 [INFO: Main      ] - Routing: RPL Classic
+95041023 ID:1 [INFO: Main      ] - Net: sicslowpan
+95043136 ID:1 [INFO: Main      ] - MAC: CSMA
+95046513 ID:1 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+95050076 ID:1 [INFO: Main      ] - 802.15.4 Default channel: 26
+95052191 ID:1 [INFO: Main      ] Node ID: 1
+95057576 ID:1 [INFO: Main      ] Link-layer address: 0012.7401.0001.0101
+95068798 ID:1 [INFO: Main      ] Tentative link-local IPv6 address: fe80::212:7401:1:101
+95072220 ID:1 [INFO: Sky       ] CC2420 CCA threshold -45
+126351705 ID:1 [INFO: Main      ] Starting Contiki-NG-release/v4.2-166-ga66692d-dirty
+126354569 ID:1 [INFO: Main      ] - Routing: RPL Classic
+126357090 ID:1 [INFO: Main      ] - Net: sicslowpan
+126359203 ID:1 [INFO: Main      ] - MAC: CSMA
+126362580 ID:1 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+126366143 ID:1 [INFO: Main      ] - 802.15.4 Default channel: 26
+126368258 ID:1 [INFO: Main      ] Node ID: 1
+126373643 ID:1 [INFO: Main      ] Link-layer address: 0012.7401.0001.0101
+126384865 ID:1 [INFO: Main      ] Tentative link-local IPv6 address: fe80::212:7401:1:101
+126388287 ID:1 [INFO: Sky       ] CC2420 CCA threshold -45
+157667772 ID:1 [INFO: Main      ] Starting Contiki-NG-release/v4.2-166-ga66692d-dirty
+157670636 ID:1 [INFO: Main      ] - Routing: RPL Classic
+157673157 ID:1 [INFO: Main      ] - Net: sicslowpan
+157675270 ID:1 [INFO: Main      ] - MAC: CSMA
+157678647 ID:1 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+157682210 ID:1 [INFO: Main      ] - 802.15.4 Default channel: 26
+157684325 ID:1 [INFO: Main      ] Node ID: 1
+157689710 ID:1 [INFO: Main      ] Link-layer address: 0012.7401.0001.0101
+157700932 ID:1 [INFO: Main      ] Tentative link-local IPv6 address: fe80::212:7401:1:101
+157704354 ID:1 [INFO: Sky       ] CC2420 CCA threshold -45
+188983839 ID:1 [INFO: Main      ] Starting Contiki-NG-release/v4.2-166-ga66692d-dirty
+188986703 ID:1 [INFO: Main      ] - Routing: RPL Classic
+188989224 ID:1 [INFO: Main      ] - Net: sicslowpan
+188991337 ID:1 [INFO: Main      ] - MAC: CSMA
+188994714 ID:1 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+188998277 ID:1 [INFO: Main      ] - 802.15.4 Default channel: 26
+189000392 ID:1 [INFO: Main      ] Node ID: 1
+189005777 ID:1 [INFO: Main      ] Link-layer address: 0012.7401.0001.0101
+189016999 ID:1 [INFO: Main      ] Tentative link-local IPv6 address: fe80::212:7401:1:101
+189020421 ID:1 [INFO: Sky       ] CC2420 CCA threshold -45
+220299906 ID:1 [INFO: Main      ] Starting Contiki-NG-release/v4.2-166-ga66692d-dirty
+220302770 ID:1 [INFO: Main      ] - Routing: RPL Classic
+220305291 ID:1 [INFO: Main      ] - Net: sicslowpan
+220307404 ID:1 [INFO: Main      ] - MAC: CSMA
+220310781 ID:1 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+220314344 ID:1 [INFO: Main      ] - 802.15.4 Default channel: 26
+220316459 ID:1 [INFO: Main      ] Node ID: 1
+220321844 ID:1 [INFO: Main      ] Link-layer address: 0012.7401.0001.0101
+220333066 ID:1 [INFO: Main      ] Tentative link-local IPv6 address: fe80::212:7401:1:101
+220336488 ID:1 [INFO: Sky       ] CC2420 CCA threshold -45
+Not converged
+TEST TIMEOUT
+TEST FAILED
+Test ended at simulation time: 250000000

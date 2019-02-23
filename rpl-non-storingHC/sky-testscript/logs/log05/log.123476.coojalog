@@ -1,0 +1,126 @@
+ INFO [main] (Cooja.java:1316) - > Starting Cooja
+ INFO [main] (Cooja.java:2857) - External tools default settings: /external_tools_linux_64.config
+ INFO [main] (Cooja.java:2887) - External tools user settings: /home/david/.cooja.user.properties
+ INFO [main] (Simulation.java:422) - Simulation random seed: 123476
+ INFO [main] (CompileContiki.java:140) - > make sink.sky TARGET=sky 
+Message:
+Message:> make sink.sky TARGET=sky 
+Message:make: 'sink.sky' is up to date.
+ INFO [main] (CompileContiki.java:140) - > make mote.sky TARGET=sky 
+Message:
+Message:> make mote.sky TARGET=sky 
+Message:make: 'mote.sky' is up to date.
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/david/contiki-ng/examples/rpl-non-storingHC/sky-testscript/code/sink.sky
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/david/contiki-ng/examples/rpl-non-storingHC/sky-testscript/code/mote.sky
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/david/contiki-ng/examples/rpl-non-storingHC/sky-testscript/code/mote.sky
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/david/contiki-ng/examples/rpl-non-storingHC/sky-testscript/code/mote.sky
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/david/contiki-ng/examples/rpl-non-storingHC/sky-testscript/code/mote.sky
+ INFO [main] (Cooja.java:1782) - Visualized plugin was not started: class org.contikios.cooja.plugins.SimControl
+ INFO [main] (Cooja.java:1782) - Visualized plugin was not started: class org.contikios.cooja.plugins.Visualizer
+ INFO [main] (Cooja.java:1782) - Visualized plugin was not started: class org.contikios.cooja.plugins.LogListener
+ INFO [main] (Cooja.java:1782) - Visualized plugin was not started: class org.contikios.cooja.plugins.TimeLine
+ INFO [main] (Cooja.java:1782) - Visualized plugin was not started: class org.contikios.cooja.plugins.Notes
+ INFO [main] (ScriptRunner.java:430) - Test script deactivated
+ INFO [main] (LogScriptEngine.java:265) - Script timeout in 250000 ms
+ INFO [main] (ScriptRunner.java:387) - Test script activated
+ INFO [Thread-2] (Simulation.java:253) - Simulation main loop started, system time: 1550491670226
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 5,00%, done in 24,5 sec
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 10,00%, done in 14,7 sec
+WDT trigger - will set interrupt flag (no reset)
+Stack Trace: number of calls: 3 PC: $0430c
+  process_thread_sink_process (local in sink.c) called from PC: $04ca2 (elapsed: 3902800)
+  call_process (local in process.c) called from PC: $04e2e (elapsed: 3902836)
+  process_run (strncmp.c) called from PC: $0425c (elapsed: 3904165)
+Watchdog: illegal write to WDTCTL (0) from $47e4 - reset!!!!
+Stack Trace: number of calls: 3 PC: $047e4
+  process_thread_sink_process (local in sink.c) called from PC: $04ca2 (elapsed: 3902802)
+  call_process (local in process.c) called from PC: $04e2e (elapsed: 3902838)
+  process_run (strncmp.c) called from PC: $0425c (elapsed: 3904167)
+ WARN [Thread-2] (MspMote.java:229) - 1: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $47e4 - reset!!!!
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 15,00%, done in 12,1 sec
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 20,00%, done in 9,4 sec
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 25,00%, done in 8,3 sec
+WDT trigger - will set interrupt flag (no reset)
+Stack Trace: number of calls: 3 PC: $0430c
+  process_thread_sink_process (local in sink.c) called from PC: $04ca2 (elapsed: 3902795)
+  call_process (local in process.c) called from PC: $04e2e (elapsed: 3902831)
+  process_run (strncmp.c) called from PC: $0425c (elapsed: 3904160)
+Watchdog: illegal write to WDTCTL (0) from $47e4 - reset!!!!
+Stack Trace: number of calls: 3 PC: $047e4
+  process_thread_sink_process (local in sink.c) called from PC: $04ca2 (elapsed: 3902797)
+  call_process (local in process.c) called from PC: $04e2e (elapsed: 3902833)
+  process_run (strncmp.c) called from PC: $0425c (elapsed: 3904162)
+ WARN [Thread-2] (MspMote.java:229) - 1: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $47e4 - reset!!!!
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 30,00%, done in 7,2 sec
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 35,00%, done in 6,2 sec
+WDT trigger - will set interrupt flag (no reset)
+Stack Trace: number of calls: 3 PC: $0430c
+  process_thread_sink_process (local in sink.c) called from PC: $04ca2 (elapsed: 3902795)
+  call_process (local in process.c) called from PC: $04e2e (elapsed: 3902831)
+  process_run (strncmp.c) called from PC: $0425c (elapsed: 3904160)
+Watchdog: illegal write to WDTCTL (0) from $47e4 - reset!!!!
+Stack Trace: number of calls: 3 PC: $047e4
+  process_thread_sink_process (local in sink.c) called from PC: $04ca2 (elapsed: 3902797)
+  call_process (local in process.c) called from PC: $04e2e (elapsed: 3902833)
+  process_run (strncmp.c) called from PC: $0425c (elapsed: 3904162)
+ WARN [Thread-2] (MspMote.java:229) - 1: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $47e4 - reset!!!!
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 40,00%, done in 5,6 sec
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 45,00%, done in 4,9 sec
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 50,00%, done in 4,3 sec
+WDT trigger - will set interrupt flag (no reset)
+Stack Trace: number of calls: 3 PC: $0430c
+  process_thread_sink_process (local in sink.c) called from PC: $04ca2 (elapsed: 3902795)
+  call_process (local in process.c) called from PC: $04e2e (elapsed: 3902831)
+  process_run (strncmp.c) called from PC: $0425c (elapsed: 3904160)
+Watchdog: illegal write to WDTCTL (0) from $47e4 - reset!!!!
+Stack Trace: number of calls: 3 PC: $047e4
+  process_thread_sink_process (local in sink.c) called from PC: $04ca2 (elapsed: 3902797)
+  call_process (local in process.c) called from PC: $04e2e (elapsed: 3902833)
+  process_run (strncmp.c) called from PC: $0425c (elapsed: 3904162)
+ WARN [Thread-2] (MspMote.java:229) - 1: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $47e4 - reset!!!!
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 55,00%, done in 3,9 sec
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 60,00%, done in 3,4 sec
+WDT trigger - will set interrupt flag (no reset)
+Stack Trace: number of calls: 3 PC: $0430c
+  process_thread_sink_process (local in sink.c) called from PC: $04ca2 (elapsed: 3902795)
+  call_process (local in process.c) called from PC: $04e2e (elapsed: 3902831)
+  process_run (strncmp.c) called from PC: $0425c (elapsed: 3904160)
+Watchdog: illegal write to WDTCTL (0) from $47e4 - reset!!!!
+Stack Trace: number of calls: 3 PC: $047e4
+  process_thread_sink_process (local in sink.c) called from PC: $04ca2 (elapsed: 3902797)
+  call_process (local in process.c) called from PC: $04e2e (elapsed: 3902833)
+  process_run (strncmp.c) called from PC: $0425c (elapsed: 3904162)
+ WARN [Thread-2] (MspMote.java:229) - 1: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $47e4 - reset!!!!
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 65,00%, done in 2,9 sec
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 70,00%, done in 2,4 sec
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 75,00%, done in 1,9 sec
+WDT trigger - will set interrupt flag (no reset)
+Stack Trace: number of calls: 3 PC: $0430c
+  process_thread_sink_process (local in sink.c) called from PC: $04ca2 (elapsed: 3902795)
+  call_process (local in process.c) called from PC: $04e2e (elapsed: 3902831)
+  process_run (strncmp.c) called from PC: $0425c (elapsed: 3904160)
+Watchdog: illegal write to WDTCTL (0) from $47e4 - reset!!!!
+Stack Trace: number of calls: 3 PC: $047e4
+  process_thread_sink_process (local in sink.c) called from PC: $04ca2 (elapsed: 3902797)
+  call_process (local in process.c) called from PC: $04e2e (elapsed: 3902833)
+  process_run (strncmp.c) called from PC: $0425c (elapsed: 3904162)
+ WARN [Thread-2] (MspMote.java:229) - 1: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $47e4 - reset!!!!
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 80,00%, done in 1,6 sec
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 85,00%, done in 1,1 sec
+WDT trigger - will set interrupt flag (no reset)
+Stack Trace: number of calls: 3 PC: $0430c
+  process_thread_sink_process (local in sink.c) called from PC: $04ca2 (elapsed: 3902795)
+  call_process (local in process.c) called from PC: $04e2e (elapsed: 3902831)
+  process_run (strncmp.c) called from PC: $0425c (elapsed: 3904160)
+Watchdog: illegal write to WDTCTL (0) from $47e4 - reset!!!!
+Stack Trace: number of calls: 3 PC: $047e4
+  process_thread_sink_process (local in sink.c) called from PC: $04ca2 (elapsed: 3902797)
+  call_process (local in process.c) called from PC: $04e2e (elapsed: 3902833)
+  process_run (strncmp.c) called from PC: $0425c (elapsed: 3904162)
+ WARN [Thread-2] (MspMote.java:229) - 1: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $47e4 - reset!!!!
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 90,00%, done in 0,8 sec
+ INFO [Thread-2] (LogScriptEngine.java:389) - Test script at 95,00%, done in 0,4 sec
+ INFO [Thread-2] (LogScriptEngine.java:375) - Timeout event @ 250000000
+ INFO [Thread-1] (LogScriptEngine.java:309) - Test script finished
+ INFO [Thread-2] (Simulation.java:312) - Simulation main loop stopped, system time: 1550491677550	Duration: 7324 ms	Simulated time 250000 ms	Ratio 34.13435281267067
+ INFO [AWT-EventQueue-0] (ScriptRunner.java:430) - Test script deactivated
