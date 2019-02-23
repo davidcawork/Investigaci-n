@@ -1,2 +1,2 @@
-# Investigacion
+# Investigación
 Investigacion-Proyecto
